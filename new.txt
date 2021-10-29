@@ -1,0 +1,27 @@
+
+7)
+git restore fileName
+or
+git restore fileName1 fileName2 fileName3
+or
+git restore *.*
+or
+git restore .
+
+git config --global user.name "Bhuvaneshwari"
+git config --global user.email "bhuvaneswari@gmail.com"
+
+8) to know the git credentails,
+
+git config --list
+or
+git config --global user.name
+git config --global user.email
+
+9) to know the git commit details,
+
+git log
+
+10) to revert to the previous commit id,
+
+git checkout commit_id
